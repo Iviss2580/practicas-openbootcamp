@@ -10,8 +10,12 @@ public class Main {
 
     static class Coche {
         public int puertas = 4;
-        public void SumarPuertas(){
+
+        public void SumarPuertas() {
             this.puertas++;
         }
     }
 }
+
+
+
